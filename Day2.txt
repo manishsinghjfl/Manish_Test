@@ -1,3 +1,4 @@
 stash 1
 first change
 third change
+changes after stash
