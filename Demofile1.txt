@@ -1,5 +1,7 @@
 change from 
 start change in master
-change done
+
+stash start
+resolving stash
 
 new change after stashing
